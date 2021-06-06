@@ -9414,7 +9414,7 @@ vue-loader@^15.9.1:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-route-values@^0.1.0:
+vue-route-values@0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/vue-route-values/-/vue-route-values-0.1.0.tgz#5af9e0c36bf7693d96847ce3b652705d2923e99c"
   integrity sha512-I3x8wLf8kLHeTVRbpBFX12bpBnQS6YtuQ2rig6RFSowiANCJSc93BfrmQVudlfnT98Yek5CAbUfSMuzkBEpvZA==
@@ -9710,9 +9710,9 @@ write@1.0.3:
     mkdirp "^0.5.1"
 
 ws@^6.0.0, ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
